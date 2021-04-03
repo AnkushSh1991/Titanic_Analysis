@@ -8,6 +8,6 @@
   * Data Exploration
   * Data Modelling
 
-# Code and Resources Used
+# Libraries Used
 * Python Version: 3.7
 * Packages: pandas, numpy, sklearn, seaborn,matplotlib
