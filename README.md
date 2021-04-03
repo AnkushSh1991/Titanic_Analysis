@@ -1,4 +1,4 @@
-# Titanic_Analysis : Project Overview
+# Titanic Survival Analysis : Project Overview
 * Created a small analysis project that estimates on what factors does a person's survival depends on titanic ship.
 * Followed the different steps involved in project life cycle :-
   * Define Problem Statement
